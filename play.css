@@ -1,5 +1,5 @@
 #count {
-  color: rgb(246, 239, 158);
+  color: rgb(158, 189, 246);
 }
 
 .players {
@@ -9,7 +9,7 @@
 }
 
 .player-name {
-  color: rgb(118, 190, 210);
+  color: rgb(118, 210, 146);
 }
 
 #player-messages {
@@ -22,15 +22,15 @@
 }
 
 .player-event {
-  color: rgb(165, 220, 235);
+  color: rgb(255, 0, 0);
 }
 
 .system-event {
-  color: rgb(221, 148, 40);
+  color: rgb(255, 153, 0);
 }
 
 .game {
-  background: rgb(0, 0, 0);
+  background: rgb(0, 217, 255);
   border-radius: 50%;
   box-shadow: 0 0 20px 5px rgb(69, 69, 69);
   width: 80vw;
@@ -60,21 +60,21 @@
 .button-top-right {
   border-radius: 0 100% 0 0;
   margin: 20px 20px 0 0;
-  background-color: red;
+  background-color: rgb(255, 0, 200);
   border: thick solid rgb(83, 12, 12);
 }
 
 .button-bottom-left {
   border-radius: 0 0 0 100%;
   margin: 0 0 20px 20px;
-  background-color: yellow;
+  background-color: rgb(0, 187, 255);
   border: thick solid rgb(130, 124, 13);
 }
 
 .button-bottom-right {
   border-radius: 0 0 100% 0;
   margin: 0 20px 20px 0;
-  background-color: blue;
+  background-color: rgb(0, 0, 0);
   border: thick solid rgb(27, 14, 100);
 }
 
